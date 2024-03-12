@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Capsule
+  - FxTemporaire
+  - ExplosionParticle
+  - BoxSkillText
+  - JumpButton
+  - BoxManager
+  - SoundManager
+  - JumpBox
+  - HealthBox
+  - BoxHealthText
+  - InstructionsText
+  - ArrowIndicatorText
+  - JumpButtonText
+  - BoxHealthFullText
+  - CollisionCounterText
+  - EnemySpawner
+  - InstructionsText1
+  - InstructionsText2
+  - InstructionsText3
+  - ArrowIndicatorText1
+  - JoystickTextObject
+  - PauseButton
+  - PlayButton
+  - SkipButton
+  - SkipButton2
+  - TextManager
+  - TutorialCompletedText
+  - Tutorial2StartButton
+  - TutorialRestartText
+  - TutorialRestartButton
+  - CoroutineManager
+  - ImmortalButton
+  - ImmortalBox
+  - BoxImmortalText
+  - ImmortalityParticleSystem
+  - SuperJumpButton
+  - SuperJumpBox
+  - BoxSuperJumpSkillText
+  - JumpSuperButtonText
+  - CarTeam
+  - SkateTeam
+  - TaxiTeam
+  - CountDownController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
