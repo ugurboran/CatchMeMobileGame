@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: bf27b3f704244da0af729a6737adb7f1
+guid: 2730c87d98d4480884d11cfb29ff72cb
 labels:
 - gvh
-- gvh_version-1.2.185
-- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.185/Google.PackageManagerResolver.dll
+- gvh_version-1.2.169
+- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.169/Google.JarResolver.dll
 - gvhp_targets-editor
 PluginImporter:
   externalObjects: {}
-  serializedVersion: 3
+  serializedVersion: 2
   iconMap: {}
   executionOrder: {}
   defineConstraints: []
@@ -16,14 +16,20 @@ PluginImporter:
   isExplicitlyReferenced: 0
   validateReferences: 1
   platformData:
-    Any:
+  - first:
+      Any: 
+    second:
       enabled: 0
       settings: {}
-    Editor:
+  - first:
+      Editor: Editor
+    second:
       enabled: 1
       settings:
         DefaultValueInitialized: true
-    WindowsStoreApps:
+  - first:
+      Windows Store Apps: WindowsStoreApps
+    second:
       enabled: 0
       settings:
         CPU: AnyCPU
